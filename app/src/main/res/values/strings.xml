@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KDproject</string>
+
+    <string-array name="name">
+        <item>Sony</item>
+        <item>Sennheiser</item>
+        <item>AKG</item>
+        <item>Audiotechnica</item>
+        <item>Beyerdynamic</item>
+
+    </string-array>
+
+
+</resources>
